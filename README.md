@@ -5,6 +5,9 @@
 [2. Các chức năng chính](#function)  
 [II. Các thành viên](#member)  
 [III. Công nghệ sử dụng](#cn)
+[IV. Những nội dung đã làm được](#dalam)
+[V. Hướng phát triển](#hpt)
+
 <a name = "I"></a>
 # I. Giới thiệu đề tài   
 ![home](https://intedic.com/wp-content/uploads/2022/04/phan-mem-quan-ly-thu-vien.jpg)
@@ -33,3 +36,17 @@ Ngoài ra website còn có Thống kê số lượng được mượn của mỗ
    C#
 3. IDE:
    Visual Studio
+<a name = "dalam"></a>
+# IV. Những nội dung đã làm được:  
+Đã thực hiện được các chức năng quản lý thư viện cơ bản:  
+1. Đăng nhập  
+2. Quản lý sách  
+3. Quản lý loại sách  
+4. Quản lý tài khoản  
+5. Quản lý thẻ thư viện  
+6. Quản lý nhân viên  
+7. Quản lý mượn trả  
+
+
+<a name = "hpt"><a/>
+# V. Hướng phát triển:
