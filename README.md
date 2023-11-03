@@ -4,9 +4,9 @@
 [1. Giới thiệu chung](#gt)  
 [2. Các chức năng chính](#function)  
 [II. Các thành viên](#member)  
-[III. Công nghệ sử dụng](#cn)
-[IV. Những nội dung đã làm được](#dalam)
-[V. Hướng phát triển](#hpt)
+[III. Công nghệ sử dụng](#cn)  
+[IV. Những nội dung đã làm được](#dalam)  
+[V. Hướng phát triển](#hpt)  
 
 <a name = "I"></a>
 # I. Giới thiệu đề tài   
@@ -21,21 +21,24 @@ Còn có chức năng quản lý bạn đọc giúp bạn có thể biết đư�
 Ngoài ra website còn có Thống kê số lượng được mượn của mỗi sách giúp cho chủ thư viện nắm được lượt mượn nhằm kiểm tra đảm bảo chất lượng của sách và nhập thêm sách nữa cần.
 <a name = "member"></a>
 # II. Các thành viên
-|       Tên thành viên       |      Giới thiệu         | Vị trí     |
-| :------------:|:-------------:|:-----:|
-|    Hoàng Thanh Huy          |        Nikname: Huyvipp123      |  Product Owner, Developer    |
-|     Đồng Phước Đạt         |        Nikname: Jackspiser      |   Scrum Master, Developer   |
-|     Đinh Văn Lâm         | Nikname: Dinhlam123             |    Team Lead, Developer  |
-|     Ngô Xuân Hoàng    |     Nikname: hoanngo457           |      Developer
+|       Tên thành viên       |      Giới thiệu         | Vị trí     |  Email  |
+| :------------:|:-------------:|:-----:|:-----------------|
+|    Hoàng Thanh Huy          |        Nikname: Huyvipp123      |  Product Owner, Developer    |   hhuy68155@gmail.com   |
+|     Đồng Phước Đạt         |        Nikname: Jackspiser      |   Scrum Master, Developer   |   datphuoc123000@gmail.com   |
+|     Đinh Văn Lâm         | Nikname: Dinhlam123             |    Team Lead, Developer  |    dlam11032003@gmail.com    |
+|     Ngô Xuân Hoàng    |     Nikname: hoanngo457           |      Developer   |    hoangngo457@gmail.com
 
 <a name = "cn"></a>
 # III. Công nghệ sử dụng
 1. Môi trường thực hiện:
-   MVC(Model-View-Controller)
-2. Ngôn ngữ thực hiện:
-   C#
-3. IDE:
-   Visual Studio
+   MVC(Model-View-Controller)  
+   <img src="https://www.pngkey.com/png/full/244-2444351_mvc-visual-studio-2010-icon.png" alt="..." width="250" />
+3. Ngôn ngữ thực hiện:
+   C-Sharp  
+   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="..." width="180" />
+5. IDE:
+   Visual Studio  
+   <img src="https://logowik.com/content/uploads/images/6668-.webp" alt="..." width="250" />
 <a name = "dalam"></a>
 # IV. Những nội dung đã làm được:  
 Đã thực hiện được các chức năng quản lý thư viện cơ bản:  
