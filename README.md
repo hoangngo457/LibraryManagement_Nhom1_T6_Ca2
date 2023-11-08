@@ -52,13 +52,13 @@ Ngoài ra website còn có Thống kê số lượng được mượn của mỗ
 6. Quản lý nhân viên: Giúp chủ thư viện quản lý được hiện tại đã có bao nhiêu nhân viên làm việc tại thư viện để có thể tuyển dụng thêm nhân viên mới khi cần thiết.  
 7. Quản lý mượn trả: Mục đích của chức năng này là biết được ai đã mượn những cuốn sách nào cũng như ngày mượn và ngày trả dự kiến để có những biện pháp xử lí khi cần thiết.  
 
-
 <a name = "hpt"><a/>
 # V. Hướng phát triển:  
 <img src="https://luanvanaz.com/wp-content/uploads/2015/08/7ffe5599705f8b26d21f774163e9dc52.jpg" alt="..." width="500" />  
+
 Hiện tại website đã cung cấp được một số chức năng cơ bản để có thể quản lý được hệ thống thư viện ở mức đơn giản. Chính vì thế trong tương lai chúng tôi sẽ có dự định sẽ phát triểm website quản lý thư viện thêm nhiều chức năng tiên tiến, hỗ trợ người dùng giúp cho trải nghiệm người dùng được thuận tiện hơn nữa. Một số các chức năng chũng tôi dự định phát tiển như là:  
-1. Nhập sách vào hệ thống với số lượng lớn.  
-2. Lấy thông tin sách bằng mã QR trên sách: điều này giúp thuận tiện hơn cho nhân viên khi cho mượn sách.  
-3. Tạo một môi trường với tính năng tương tác giữa các bạn đọc và kết nối cộng đồng: có các tính năng tương tác, như bình luận, đánh giá sách, chia sẻ suy nghĩ về tác phẩm, tạo cơ hội giao lưu văn hóa giữa người đọc.  
-4. Bảo mật: Bảo mật thông tin người dùng và dữ liệu của thư viện.  
-5. Hỗ trợ kĩ thuật: đảm bảo người dùng có trải nghiệm tốt nhất và để hệ thống hoạt động một cách trơn tru và hiệu quả.  
+1. Nhập sách vào hệ thống với số lượng lớn.    
+2. Lấy thông tin sách bằng mã QR trên sách: điều này giúp thuận tiện hơn cho nhân viên khi cho mượn sách.    
+3. Tạo một môi trường với tính năng tương tác giữa các bạn đọc và kết nối cộng đồng: có các tính năng tương tác, như bình luận, đánh giá sách, chia sẻ suy nghĩ về tác phẩm, tạo cơ hội giao lưu văn hóa giữa người đọc.    
+4. Bảo mật: Bảo mật thông tin người dùng và dữ liệu của thư viện.    
+5. Hỗ trợ kĩ thuật: đảm bảo người dùng có trải nghiệm tốt nhất và để hệ thống hoạt động một cách trơn tru và hiệu quả.    
