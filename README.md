@@ -55,7 +55,7 @@ Ngoài ra website còn có Thống kê số lượng được mượn của mỗ
 
 <a name = "hpt"><a/>
 # V. Hướng phát triển:  
-<img src="https://pngimg.com/d/paper_plane_PNG20.png" alt="..." width="500" />
+<img src="https://luanvanaz.com/wp-content/uploads/2015/08/7ffe5599705f8b26d21f774163e9dc52.jpg" alt="..." width="500" />  
 Hiện tại website đã cung cấp được một số chức năng cơ bản để có thể quản lý được hệ thống thư viện ở mức đơn giản. Chính vì thế trong tương lai chúng tôi sẽ có dự định sẽ phát triểm website quản lý thư viện thêm nhiều chức năng tiên tiến, hỗ trợ người dùng giúp cho trải nghiệm người dùng được thuận tiện hơn nữa. Một số các chức năng chũng tôi dự định phát tiển như là:  
 1. Nhập sách vào hệ thống với số lượng lớn.  
 2. Lấy thông tin sách bằng mã QR trên sách: điều này giúp thuận tiện hơn cho nhân viên khi cho mượn sách.  
