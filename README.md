@@ -32,15 +32,35 @@ Ngoài ra website còn có Thống kê số lượng được mượn của mỗ
 # III. Công nghệ sử dụng
 1. Môi trường thực hiện:
    MVC(Model-View-Controller)  
-   <img src="https://www.pngkey.com/png/full/244-2444351_mvc-visual-studio-2010-icon.png" alt="..." width="250" />
-2. Ngôn ngữ thực hiện:
+   <img src="https://www.pngkey.com/png/full/244-2444351_mvc-visual-studio-2010-icon.png" alt="..." width="250" />  
+Mô hình MVC là một kiến trúc phần mềm được sử dụng để tổ chức và thiết kế các thành phần trong một ứng dụng. "MVC" là viết tắt của ba thành phần chính trong mô hình: Mô hình (Model), Quản lý Hiển thị (View), và Quản lý Điều khiển (Controller). Mô tả về các thành phần:  
+   1.1. Model:
+   <ul>
+     <li>Đại diện cho dữ liệu và logic xử lý dữ liệu trong ứng dụng.  </li>
+     <li>Thực hiện các thao tác như đọc và ghi dữ liệu, xử lý logic kinh doanh và duy trì trạng thái của ứng dụng. </li>
+   </ul> 
+   1.2. View:  
+   <ul>
+     <li>Chịu trách nhiệm hiển thị dữ liệu cho người dùng. </li>
+     <li>Không chứa logic kinh doanh, chỉ hiển thị thông tin từ Mô hình và truyền các sự kiện người dùng đến Controller. </li>
+   </ul>   
+   1.3. Controller:  
+   <ul>
+     <li>Lắng nghe sự kiện từ người dùng, chẳng hạn như các cú nhấp chuột, phím nhấn, và thao tác người dùng khác. </li>
+     <li>Xử lý sự kiện và cập nhật Mô hình hoặc View tương ứng.  </li>
+     <li>Chịu trách nhiệm điều phối luồng điều khiển trong ứng dụng.  </li>
+   </ul>
+3. Ngôn ngữ thực hiện:
    C-Sharp  
-   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="..." width="180" />
-3. IDE:
+   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="..." width="180" />  
+C# (C Sharp) là một ngôn ngữ lập trình được phát triển bởi Microsoft, chủ yếu dành cho việc phát triển ứng dụng trên nền tảng Windows và .NET. Được thiết kế với hướng đối tượng, C# hỗ trợ quản lý bộ nhớ tự động, đa luồng, LINQ, và tích hợp chặt chẽ với các framework mạnh mẽ như .NET Framework và .NET Core. C# cũng có khả năng phát triển ứng dụng đa nền tảng và di động thông qua Xamarin. Với cộng đồng lớn và hỗ trợ đa dạng, C# đã trở thành một ngôn ngữ quan trọng trong cả lĩnh vực phát triển desktop và web.  
+5. IDE:
    Visual Studio  
-   <img src="https://logowik.com/content/uploads/images/6668-.webp" alt="..." width="250" />
-4. Database: SQL Server  
-   <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="..." width="250" />
+   <img src="https://logowik.com/content/uploads/images/6668-.webp" alt="..." width="250" />  
+Visual Studio là một môi trường phát triển tích hợp (IDE) do Microsoft phát triển. Được thiết kế cho việc phát triển ứng dụng trên nền tảng Microsoft, Visual Studio cung cấp một loạt các công cụ mạnh mẽ cho việc viết mã, gỡ lỗi, và triển khai ứng dụng. Hỗ trợ đa ngôn ngữ, đa nền tảng, và tích hợp chặt chẽ với .NET, nó là một công cụ quan trọng trong cộng đồng phát triển phần mềm.  
+7. Database: SQL Server  
+   <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="..." width="250" />  
+SQL Server là hệ quản trị cơ sở dữ liệu (DBMS) được phát triển bởi Microsoft. Được thiết kế để quản lý và lưu trữ dữ liệu, SQL Server cung cấp nền tảng cho việc phát triển, triển khai, và quản lý các ứng dụng cơ sở dữ liệu. Nó hỗ trợ ngôn ngữ truy vấn SQL (Structured Query Language) và cung cấp các tính năng như bảo mật dữ liệu, xử lý giao dịch, và khả năng mở rộng để đáp ứng các yêu cầu của các ứng dụng doanh nghiệp và web. SQL Server là một trong những hệ quản trị cơ sở dữ liệu phổ biến và được sử dụng rộng rãi trên toàn thế giới.  
 <a name = "dalam"></a>
 # IV. Những nội dung đã làm được:  
 ![Screenshot (55)](https://github.com/hoangngo457/QuanLyThuVien_Nhom1_T6_Ca2/assets/66813345/fdedd417-c054-4998-ac01-558b0ecd0e76)  
