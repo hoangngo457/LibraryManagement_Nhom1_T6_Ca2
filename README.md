@@ -43,6 +43,7 @@ Ngoài ra website còn có Thống kê số lượng được mượn của mỗ
    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="..." width="250" />
 <a name = "dalam"></a>
 # IV. Những nội dung đã làm được:  
+![Screenshot (55)](https://github.com/hoangngo457/QuanLyThuVien_Nhom1_T6_Ca2/assets/66813345/fdedd417-c054-4998-ac01-558b0ecd0e76)  
 Đã thực hiện được các chức năng quản lý thư viện cơ bản:  
 1. Đăng nhập: Chủ thư viện hoặc các nhân viên sẽ truy cập được vào trang web để thực hiện các nghiệp vụ của họ.    
 2. Quản lý sách: Chủ thư viện hoặc nhân viên có thể xem các cuốn sách mà thư viện đang có, số lượng của chúng cũng như là tình trạng của chúng(còn hay đã được mượn hết), thêm lại các đầu sách mới hoặc cập nhật lại các thông tin của sách, cũng như số lượng nếu có nhập mới về.  
